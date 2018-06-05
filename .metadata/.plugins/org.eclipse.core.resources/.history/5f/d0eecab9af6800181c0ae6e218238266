@@ -1,0 +1,10 @@
+#Docker host properties
+#Tue Jun 05 16:29:04 IST 2018
+bwdocker.certPath=/home/vinay/.docker
+docker.image=Learn
+bwdocker.port.p1=17777\:7777
+bwdocker.port.p0=18080\:8080
+bwdocker.host=unix\:///var/run/docker.sock
+bwdocker.maintainer=Dasaradha
+bwdocker.containername=BWCEAPP
+bwdocker.from=tibco/bwce
